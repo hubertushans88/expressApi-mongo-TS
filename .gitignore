@@ -1,0 +1,6 @@
+/.idea/
+.env
+/dist/
+/build/
+/node_modules/
+*.log
